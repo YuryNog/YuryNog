@@ -1,11 +1,8 @@
 # 💻 Yury Nogueira
 
-**`Desenvolvedor em Formação | Engenharia de Software @ UFG`**
+**`Desenvolvedor em formação`**
 
-Meu nome é Yury Nogueira de Oliveira Silva, tenho 19 anos e sou natural de Goiás. Concluí o ensino médio no CEPMG-NAS e trabalhei como Despachante Operacional em Provedor de Internet. Atualmente, estou cursando **Engenharia de Software na UFG**. Sou entusiasta da tecnologia, estou no início da minha jornada na programação e me dedicando a aprender as bases da computação.
-
----
-
+Meu nome é Yury Nogueira de Oliveira Silva tenho 19 anos e sou natural de Goiás. Concluí o ensino médio no CEPMG-NAS, e trabalhei como Despachante Operacional em Provedor de Internet. Atualmente, estou cursando Engenharia de Software na UFG. Sou entusiasta da tecnologia estou no início da minha jornada na programação e atualmente dedicando em aprender as bases da computação.
 ### 🌐 Minhas redes sociais
 
 <p align="left">
@@ -41,12 +38,12 @@ Meu nome é Yury Nogueira de Oliveira Silva, tenho 19 anos e sou natural de Goi�
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=YuryNog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=YuryNog&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Languages" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuryNog&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=YuryNog&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6" 
   />
 </p>
