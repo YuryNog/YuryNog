@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Meu nome é Yury Nogueira de Oliveira Silva tenho 19 anos e sou natural de Goiás. Concluí o ensino médio no CEPMG-NAS, e trabalhei como Despachante Operacional em Provedor de Internet. Atualmente, estou cursando Engenharia de Software na UFG. Sou entusiasta da tecnologia estou no início da minha jornada na programação e atualmente dedicando em aprender as bases da computação.
+Meu nome é Yury Nogueira de Oliveira Silva tenho 19 anos e sou  de Goiás. Concluí o ensino médio em 2025, e trabalhei como Despachante Operacional em Provedor de Internet por 8 meses. Atualmente, estou cursando Engenharia de Software na UFG. Sou entusiasta da tecnologia estou no início da minha jornada na programação e atualmente dedicando em aprender as bases da computação.
 ### 🌐 Minhas redes sociais
 
 <p align="left">
